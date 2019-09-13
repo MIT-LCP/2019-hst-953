@@ -27,14 +27,14 @@ You can open the following tutorial notebooks on Colab and get started instantly
 * [05-prediction.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/eicu/05-prediction.ipynb)
 
 ### MIMIC-III
-* [mimic-iii-tutorial-aarhus.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/mimic-iii/mimic-iii-tutorial-aarhus.ipynb)
+* [mimic-iii-tutorial.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/mimic-iii/mimic-iii-tutorial.ipynb)
 
 ### MIMIC-CXR
-* [mimic-cxr-train-aarhus.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/mimic-cxr/mimic-cxr-train-aarhus.ipynb)
+* [mimic-cxr-train.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/mimic-cxr/mimic-cxr-train.ipynb)
 
 ## R 
 
-Datasets can also be queried directly from R. This is exemplified in the following R markdown notebook: [mimic-iii-los-aarhus.Rmd](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/mimic-iii/mimic-iii-los-aarhus.Rmd)
+Datasets can also be queried directly from R. This is exemplified in the following R markdown notebook: [mimic-iii-los.Rmd](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/mimic-iii/mimic-iii-los.Rmd)
 
 ## Accessing MIMIC-CXR
 
