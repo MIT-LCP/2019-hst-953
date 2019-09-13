@@ -20,7 +20,7 @@ You can access the datasets directly on GCP:
 You can open the following tutorial notebooks on Colab and get started instantly. Requirements for these notebooks are: (1) you have a Google account, and (2) your Google account has been added to the `hst-953-2019` Google group.
 
 ### eICU-CRD
-* [01-accessing-the-data.ipynb](https://colab.research.google.com/github/MIT-LCP/hst-953-2019/blob/master/tutorials/eicu/01-accessing-the-data.ipynb)
+* [01-accessing-the-data.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/eicu/01-accessing-the-data.ipynb)
 * [02-explore-patients.ipynb](https://colab.research.google.com/github/MIT-LCP/hst-953-2019/blob/master/tutorials/eicu/02-explore-patients.ipynb)
 * [03-severity-of-illness.ipynb](https://colab.research.google.com/github/MIT-LCP/hst-953-2019/blob/master/tutorials/eicu/03-severity-of-illness.ipynb)
 * [04-summary-statistics.ipynb](https://colab.research.google.com/github/MIT-LCP/hst-953-2019/blob/master/tutorials/eicu/04-summary-statistics.ipynb)
