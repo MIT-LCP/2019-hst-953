@@ -21,20 +21,20 @@ You can open the following tutorial notebooks on Colab and get started instantly
 
 ### eICU-CRD
 * [01-accessing-the-data.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/eicu/01-accessing-the-data.ipynb)
-* [02-explore-patients.ipynb](https://colab.research.google.com/github/MIT-LCP/hst-953-2019/blob/master/tutorials/eicu/02-explore-patients.ipynb)
-* [03-severity-of-illness.ipynb](https://colab.research.google.com/github/MIT-LCP/hst-953-2019/blob/master/tutorials/eicu/03-severity-of-illness.ipynb)
-* [04-summary-statistics.ipynb](https://colab.research.google.com/github/MIT-LCP/hst-953-2019/blob/master/tutorials/eicu/04-summary-statistics.ipynb)
-* [05-prediction.ipynb](https://colab.research.google.com/github/MIT-LCP/hst-953-2019/blob/master/tutorials/eicu/05-prediction.ipynb)
+* [02-explore-patients.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/eicu/02-explore-patients.ipynb)
+* [03-severity-of-illness.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/eicu/03-severity-of-illness.ipynb)
+* [04-summary-statistics.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/eicu/04-summary-statistics.ipynb)
+* [05-prediction.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/eicu/05-prediction.ipynb)
 
 ### MIMIC-III
-* [mimic-iii-tutorial-aarhus.ipynb](https://colab.research.google.com/github/MIT-LCP/hst-953-2019/blob/master/tutorials/mimic-iii/mimic-iii-tutorial-aarhus.ipynb)
+* [mimic-iii-tutorial-aarhus.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/mimic-iii/mimic-iii-tutorial-aarhus.ipynb)
 
 ### MIMIC-CXR
-* [mimic-cxr-train-aarhus.ipynb](https://colab.research.google.com/github/MIT-LCP/hst-953-2019/blob/master/tutorials/mimic-cxr/mimic-cxr-train-aarhus.ipynb)
+* [mimic-cxr-train-aarhus.ipynb](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/mimic-cxr/mimic-cxr-train-aarhus.ipynb)
 
 ## R 
 
-Datasets can also be queried directly from R. This is exemplified in the following R markdown notebook: [mimic-iii-los-aarhus.Rmd](https://github.com/MIT-LCP/hst-953-2019/blob/master/tutorials/mimic-iii/mimic-iii-los-aarhus.Rmd)
+Datasets can also be queried directly from R. This is exemplified in the following R markdown notebook: [mimic-iii-los-aarhus.Rmd](https://colab.research.google.com/github/MIT-LCP/2019-hst-953/blob/master/tutorials/mimic-iii/mimic-iii-los-aarhus.Rmd)
 
 ## Accessing MIMIC-CXR
 
